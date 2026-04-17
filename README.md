@@ -4,7 +4,7 @@
 
 * The *gmm_diag* and *gmm_full* classes are included in recent versions of the [Armadillo C++ library](https://gitlab.com/conradsnicta/armadillo-code).
 
-* Documentation for the *gmm_diag* and *gmm_full* classes is available online: [http://arma.sourceforge.net/docs.html#gmm_diag](http://arma.sourceforge.net/docs.html#gmm_diag).
+* Documentation for the *gmm_diag* and *gmm_full* classes is available online: [http://arma.sourceforge.net/docs.html#gmm_diag](https://arma.sourceforge.net/docs.html#gmm_diag).
 
 * The *gmm_diag* and *gmm_full* classes provide multi-threaded (parallelised) implementations of Gaussian mixture models (GMMs) and the associated k-means and Expectation-Maximisation (EM) training algorithms.
 
